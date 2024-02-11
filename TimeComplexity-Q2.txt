@@ -1,0 +1,3 @@
+Proving the time complexity of the algorithm:
+
+Time Complexity: The time complexity of this algorithm is O(N), where N is the number of elements in the array. We iterate through the array once, and for each element, we perform constant time operations.

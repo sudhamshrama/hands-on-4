@@ -1,0 +1,16 @@
+Called fib(5)
+Calling fib(4) + fib(3)
+Called fib(4)
+Calling fib(3) + fib(2)
+Called fib(3)
+Calling fib(2) + fib(1)
+Called fib(2)
+Returning 1
+Called fib(1)
+Returning 1
+Called fib(3)
+Calling fib(2) + fib(1)
+Called fib(2)
+Returning 1
+Called fib(1)
+Returning 1

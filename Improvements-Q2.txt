@@ -1,0 +1,4 @@
+Commenting on ways to improve the implementation:
+
+Set Data Structure: If the input array is not sorted, or if we're allowed to use additional data structures, we could use a set to efficiently remove duplicates in O(N) time complexity, where N is the number of elements in the array.
+In-place Modification: If we're required to modify the input array in place, we could use two pointers to track unique elements. One pointer iterates through the array, and the other pointer indicates where the next unique element should be placed. This approach would have a time complexity of O(N) as well, but it would save space by not requiring additional memory for the output array. However, it's crucial to consider whether modifying the input array in place is acceptable for the given problem constraints.

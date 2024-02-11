@@ -1,0 +1,3 @@
+Proving the time complexity of the algorithm:
+
+Time Complexity: The time complexity of this algorithm is O(N * log(K)), where N is the total number of elements across all arrays, and K is the number of arrays. This is because each element is pushed and popped from the heap only once, and the operations on the heap take O(log(K)) time.
